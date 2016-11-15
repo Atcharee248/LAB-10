@@ -75,10 +75,10 @@
   <p align="center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-11.png">
 </p>  
-<img src="https://github.com/Atcharee248/LAB-10/blob/master/imgs/Lab10_11.JPG?raw=true">
+<img src="https://github.com/Atcharee248/LAB-10/blob/master/imgs/Lab10_12.JPG?raw=true">
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
-
+<img src="https://github.com/Atcharee248/LAB-10/blob/master/imgs/Lab10_11.JPG?raw=true">
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
