@@ -78,6 +78,7 @@
 <img src="https://github.com/Atcharee248/LAB-10/blob/master/imgs/Lab10_12.JPG?raw=true">
 #แบบฝึกหัด
 ให้วาดรูปวิว โดยใช้รูปร่างต่างๆ ที่ทำการทดลองใน Lab นี้
+<br>
 <img src="https://github.com/Atcharee248/LAB-10/blob/master/imgs/Lab10_11.JPG?raw=true">
 ##เอกสารอ้างอิง
 ### [Graphics Methods](https://msdn.microsoft.com/en-us/library/system.drawing.graphics_methods(v=vs.110).aspx)
